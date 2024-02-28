@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Data Store</string>
+    <string name="display_value">Display Value</string>
+    <string name="value_of_the_key_will_be_displayed_here">Value of the key will be displayed here</string>
+    <string name="enter_key">Enter Key</string>
+    <string name="save">Save</string>
+    <string name="enter_key_to_search">Enter Key to Search</string>
+    <string name="enter_value">Enter Value</string>
+</resources>
